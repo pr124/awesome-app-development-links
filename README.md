@@ -36,10 +36,15 @@ Understand human nature, and you'll always find a way to succeed.
 
 ## UI
 [Figma](https://www.figma.com/community/mobile-apps/)
+
 [UXSnaps](https://www.uxsnaps.com/)
+
 [Mobbin](https://mobbin.com/)
+
 [Dribbble](https://dribbble.com/)
+
 [Spottedinprod](https://www.spottedinprod.com/)
+
 [Design/UI/UX skills](https://impeccable.style/)
 
 Profitable iOS apps have 1 thing in common, 3 easy retention loops:
@@ -61,8 +66,7 @@ Retention > features!
 ## Security
 [Vibe coding security checklist](https://x.com/DeFiMinty/status/2029049629287895528)
 
-[how to build secure vibe-coded apps that don't get hacked
-](https://x.com/burakeregar/status/2014696329549648137)
+[how to build secure vibe-coded apps that don't get hacked](https://x.com/burakeregar/status/2014696329549648137)
 
 
 ## UGC  
@@ -86,13 +90,11 @@ Retention > features!
 
 [Nano Banana Pro + MassContent + MassUGC = AI vid factory](https://x.com/TechWith_Nova/status/2024264027556499914)
 
-[A good strategy is to first figure out how to go viral, then optimize.
-](https://x.com/iamgdsa/status/2027019954109722760)
+[A good strategy is to first figure out how to go viral, then optimize.](https://x.com/iamgdsa/status/2027019954109722760)
 
 [this is the easiest way to get your first 100 users](https://x.com/gauravsbuilding/status/2027265169559334968)
 
-[How AI Characters Generate Income 24/7
-](https://x.com/maxxmalist/status/2025263995251220784)
+[How AI Characters Generate Income 24/7](https://x.com/maxxmalist/status/2025263995251220784)
 
 [how to create a $100M+ money making machine with ai ugc that actually feels human](https://x.com/adriansolarzz/status/2025026016180089195)
 
@@ -135,29 +137,24 @@ Don’t scale before something works
 
 [How i made $34,567 in 4 months posting TT Slideshows](https://x.com/xaviergrowths/status/2028548006942064879)
 
-[the fastest way to do tiktok marketing
-](https://x.com/mattwelter/status/2028539237721952441)
+[the fastest way to do tiktok marketing](https://x.com/mattwelter/status/2028539237721952441)
 
 [This slideshow got 1.4M views With literally 1 single word. “The ilegal formula to wake up at 4:30AM” The word “Ilegal”, can be the difference Between 0 or 1M views](https://x.com/manucastilloll/status/2028170385561211057)
 
 [This video format keeps going viral. Hook: 😳 Surprised girl on screen. Screen Text: ex.“I found this app and it kinda feels illegal"](https://x.com/KCodes7777/status/2023769392404660354)
 
-[how I made almost 6 figures posting AI slideshows for apps 
-](https://x.com/Laura6108218367/status/2025694791451767007)
+[how I made almost 6 figures posting AI slideshows for apps ](https://x.com/Laura6108218367/status/2025694791451767007)
 
-[TikTok farming playbook for app marketing (30 phones, 50M+ views)
-](https://x.com/JosephKChoi/status/2024201897322709065)
+[TikTok farming playbook for app marketing (30 phones, 50M+ views)](https://x.com/JosephKChoi/status/2024201897322709065)
 
 [Gotten 3M+ views. Brand new account. 100% organic.](https://x.com/KCodes7777/status/2023900671003836437)
 
-[how you can outproduce entire creative teams with 5 tools (ai ugc pipeline)
-](https://x.com/knoxtwts/status/2023749545939624246)
+[how you can outproduce entire creative teams with 5 tools (ai ugc pipeline)](https://x.com/knoxtwts/status/2023749545939624246)
 
 [How I made $22k in 8 months posting faceless tiktoks for apps (and how you can start this week)](https://x.com/jessieclipping/status/2022745577608380794)
 
 ## Claude Code and skills
-[the complete guide to building skills for claude/codex
-](https://x.com/rohit4verse/status/2021622526112358663)
+[the complete guide to building skills for claude/codex](https://x.com/rohit4verse/status/2021622526112358663)
 
 [Best Practices for Claude Code (Use these to make Claude Code 100x Powerful):](https://x.com/Meer_AIIT/status/2027509711722188976)
 
