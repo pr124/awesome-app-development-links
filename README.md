@@ -64,6 +64,8 @@ Retention > features!
 [Profitable iOS apps have these 5 things in common](https://x.com/Hartdrawss/status/2025865883533406380)
 
 ## Security
+[30 Security Rules to be the Top 1% VIBE CODER](https://x.com/WasimShips/status/2029811248012173658)
+
 [Vibe coding security checklist](https://x.com/DeFiMinty/status/2029049629287895528)
 
 [how to build secure vibe-coded apps that don't get hacked](https://x.com/burakeregar/status/2014696329549648137)
