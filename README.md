@@ -28,6 +28,8 @@ Understand human nature, and you'll always find a way to succeed.
 
 [The $10k MRR Stack - How I ship Mobile Apps](https://x.com/WasimShips/status/2025830907358347662)
 
+[MCP, plugins and skills checklist](https://x.com/designbyaron/status/2029445004234498246)
+
 [Here's the ULTIMATE submission checklist ( Bookmark this to ship)](https://x.com/Hartdrawss/status/2022272233515712847)
 
 [Checklist before App Store submission](https://x.com/Hartdrawss/status/2019705306687697371)
