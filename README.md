@@ -102,6 +102,8 @@ Retention > features!
 
 [How to find influencers for your app? (and paying them less than $1 CPM for qualified views)](https://x.com/david_attisaas/status/2020876062180204993)
 
+[Using pexels to create consistent posts](https://x.com/KCodes7777/status/2029696157790728516)
+
 ## TikTok
 Day 1
 → Create brand new TikTok + Instagram
