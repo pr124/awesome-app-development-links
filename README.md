@@ -34,6 +34,8 @@ Understand human nature, and you'll always find a way to succeed.
 
 [Checklist before App Store submission](https://x.com/Hartdrawss/status/2019705306687697371)
 
+[Pre-submission compliance scanner for the Apple App Store Greenlight repo](https://github.com/RevylAI/greenlight)
+
 ## UI
 [Figma](https://www.figma.com/community/mobile-apps/)
 
