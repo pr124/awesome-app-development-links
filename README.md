@@ -11,11 +11,27 @@ You'll never go broke if you sell to:
 
 Understand human nature, and you'll always find a way to succeed.
 
+Here are the best niches to build in if you want to beat those odds.
+
+Health & Fitness
+Users spend an average of $35.64 in their first year and 86.4% renew annually, the highest of any app category. Once someone commits to an annual plan, they almost never leave.
+
+Business
+First year LTV sits at $32.16, with 37.6% of trial users converting to paid in North America. Retention stabilises fast too. By the third renewal cycle it averages 82%. B2B users pay more upfront and stick around longer.
+
+Travel
+The highest trial-to-paid rate of any category at 43.5%. It's seasonal by nature, but that works in your favour. 8% of churned users reactivate every year when their next trip comes around. Hard to beat a built-in comeback loop like that.
+
 [22 profitable B2C app niches you can start building in 2026](https://x.com/muratworks/status/2028808666346823701)
 
 [don‘t know what product or feature to build?](https://x.com/onlinedopamine/status/2028782843732840829)
 
 [Everyone’s asking me what to sell in 2026.](https://x.com/realbrianmoran/status/2028514494972932407)
+
+Profitable niches usually have 3 things:
+- A clear before/after
+- A subscription people don’t cancel
+- A daily habit 
 
 ## Vibecoding guides, checklists and rules
 [This is how I scaled my mobile app to $25k+/month (The Complete Guide)](https://x.com/maubaron/status/2027551137768083619)
