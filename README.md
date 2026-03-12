@@ -92,6 +92,8 @@ Retention > features!
 
 
 ## UGC  
+[the only skill you should be learning right now](https://x.com/Mho_23/status/2032114413763731542)
+
 [Why your content won't blow up (and how to actually get viral videos)](https://x.com/jessieclipping/status/2027030716219822359)
 
 [How to Build an AI Content Factory That Generates $50K-$300K/mo Using Stunt](https://x.com/JamesEbringer/status/2029606349949018441)
