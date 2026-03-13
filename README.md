@@ -67,6 +67,23 @@ Profitable niches usually have 3 things:
 
 [Before.click](https://before.click/)
 
+# Icons
+[Lucide (Free)](https://lucide.dev/)
+
+[Phosphor Icons (Free)](https://phosphoricons.com/)
+
+[Tabler Icons (Free)](https://tabler.io/icons)
+
+[Iconir (Free)](https://iconoir.com/)
+
+[Solar Icons (Free + Paid)](https://solar-icons.vercel.app/)
+
+[Huge Icons (Free + Paid)](https://hugeicons.com/)
+
+[Line Icons (Free + Paid)](https://lineicons.com/)
+
+[Streamline (Paid)](https://www.streamlinehq.com/)
+
 Profitable iOS apps have 1 thing in common, 3 easy retention loops:
 - streaks
 - reminders
@@ -170,8 +187,6 @@ Don’t scale before something works
 [This slideshow got 1.4M views With literally 1 single word. “The ilegal formula to wake up at 4:30AM” The word “Ilegal”, can be the difference Between 0 or 1M views](https://x.com/manucastilloll/status/2028170385561211057)
 
 [This video format keeps going viral. Hook: 😳 Surprised girl on screen. Screen Text: ex.“I found this app and it kinda feels illegal"](https://x.com/KCodes7777/status/2023769392404660354)
-
-[how I made almost 6 figures posting AI slideshows for apps ](https://x.com/Laura6108218367/status/2025694791451767007)
 
 [TikTok farming playbook for app marketing (30 phones, 50M+ views)](https://x.com/JosephKChoi/status/2024201897322709065)
 
