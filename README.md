@@ -34,6 +34,8 @@ Profitable niches usually have 3 things:
 
 [Pre-submission compliance scanner for the Apple App Store Greenlight repo](https://github.com/RevylAI/greenlight)
 
+[HOW TO GET YOUR FIRST 100 PAYING USERS WITH ZERO AD SPEND](https://x.com/om_patel5/status/2032306365822017847)
+
 # Icons
 [Lucide (Free)](https://lucide.dev/)
 
@@ -91,7 +93,7 @@ Retention > features!
 
 
 ## UGC  
-[the only skill you should be learning right now](https://x.com/Mho_23/status/2032114413763731542)
+[the only skill you should be learning right now](https://x.com/pounddz/status/2032131820368601505)
 
 [how to master AI content (step by step playbook)](https://x.com/maxxmalist/status/2029262055555969297)
 
@@ -110,6 +112,8 @@ Retention > features!
 [How AI Characters Generate Income 24/7](https://x.com/maxxmalist/status/2025263995251220784)
 
 [$550/hr AI creative director.](https://x.com/FynCas/status/2031026800696938855)
+
+[how to make AI UGC that actually looks real...](https://x.com/jacobgrowth/status/2032156967540605251)
 
 ## TikTok
 Day 1
