@@ -36,7 +36,7 @@ Profitable niches usually have 3 things:
 
 [HOW TO GET YOUR FIRST 100 PAYING USERS WITH ZERO AD SPEND](https://x.com/om_patel5/status/2032306365822017847)
 
-# Icons
+## Icons
 [Lucide (Free)](https://lucide.dev/)
 
 [Phosphor Icons (Free)](https://phosphoricons.com/)
