@@ -84,6 +84,19 @@ Retention > features!
 
 [Profitable iOS apps have these 5 things in common](https://x.com/Hartdrawss/status/2025865883533406380)
 
+## Onboarding
+[Plandra App](https://x.com/AmenaiSabuwala/status/2031042502564683826)
+
+[Opal App](https://x.com/cesaralvarezll/status/2032513612497969591)
+
+[Balance App](https://x.com/alice_ercolani/status/2031188338737385861)
+
+[MacroFactor App](https://x.com/adriamatz/status/2030674462480240832)
+
+[Rock Identifier - premium look](https://x.com/adriamatz/status/2032410618381181130)
+
+[You need this on your onboarding, → Fake analyzing screen → Personalized chart → Graph going up before you've done anything](https://x.com/adriamatz/status/2032845852746637414)
+
 ## Security
 [30 Security Rules to be the Top 1% VIBE CODER](https://x.com/WasimShips/status/2029811248012173658)
 
@@ -114,6 +127,8 @@ Retention > features!
 [$550/hr AI creative director.](https://x.com/FynCas/status/2031026800696938855)
 
 [how to make AI UGC that actually looks real...](https://x.com/jacobgrowth/status/2032156967540605251)
+
+[how to grow $100k/mo apps with ai ugc](https://x.com/fuckgrowth/status/2032147774834118704)
 
 ## TikTok
 Day 1
