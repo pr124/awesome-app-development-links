@@ -14,7 +14,7 @@ The highest trial-to-paid rate of any category at 43.5%. It's seasonal by nature
 
 [don‘t know what product or feature to build?](https://x.com/onlinedopamine/status/2028782843732840829)
 
-[Everyone’s asking me what to sell in 2026.](https://x.com/realbrianmoran/status/2028514494972932407)
+[The easiest path to a viral indie app right now (that actually makes money)](https://x.com/WasimShips/status/2022694971191476255)
 
 Profitable niches usually have 3 things:
 - A clear before/after
