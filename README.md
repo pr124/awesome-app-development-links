@@ -120,6 +120,8 @@ Retention > features!
 
 [how to master AI content (step by step playbook)](https://x.com/maxxmalist/status/2029262055555969297)
 
+[How To Go VIRAL With AI UGC By Using Emojis In Your Hooks](https://x.com/adriansolarzz/status/2033275781577679187)
+
 [Why your content won't blow up (and how to actually get viral videos)](https://x.com/jessieclipping/status/2027030716219822359)
 
 [here's how brazilians affiliates are scaling b2c offers to 7-figs with AI slideshows...](https://x.com/adriansolarzz/status/2029346469119991974)
@@ -141,6 +143,7 @@ Retention > features!
 [how to grow $100k/mo apps with ai ugc](https://x.com/fuckgrowth/status/2032147774834118704)
 
 [Complete Guide to Building an AI Content Factory that Generates $50K/mo (Beginner + Advanced)](https://x.com/kritarthmittal/status/2029505868266619030)
+
 
 ## TikTok
 Day 1
