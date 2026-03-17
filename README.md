@@ -22,6 +22,8 @@ Profitable niches usually have 3 things:
 - A daily habit 
 
 ## Vibecoding guides, checklists and rules
+![HDiI27nWMAADgEc](https://github.com/user-attachments/assets/07651592-4074-4687-ba6c-35123824c9d0)
+
 [This is how I scaled my mobile app to $25k+/month (The Complete Guide)](https://x.com/maubaron/status/2027551137768083619)
 
 [I built 10 apps in 10 months and make $800,000/yr ( full guide )](https://x.com/ErnestoSOFTWARE/status/2014110519913857122)
@@ -211,3 +213,5 @@ Don’t scale before something works
 [How our OpenClaw agent "Eddie" helps us make $70k/mo with B2C Apps ( step by step )](https://x.com/ErnestoSOFTWARE/status/2027105511569809899)
 
 [How to Build an OpenClaw That Automates Your Marketing](https://x.com/startupideaspod/status/2031100491715981806)
+
+[We turned Openclaw into a self improving vibe marketer for our $300,000/yr app.](https://x.com/ErnestoSOFTWARE/status/2033917717762191659)
