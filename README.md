@@ -1,17 +1,6 @@
 ## Ideas
 [App store tracker](https://www.appstoretracker.com/)
 
-Here are the best niches to build in if you want to beat those odds.
-
-Health & Fitness
-Users spend an average of $35.64 in their first year and 86.4% renew annually, the highest of any app category. Once someone commits to an annual plan, they almost never leave.
-
-Business
-First year LTV sits at $32.16, with 37.6% of trial users converting to paid in North America. Retention stabilises fast too. By the third renewal cycle it averages 82%. B2B users pay more upfront and stick around longer.
-
-Travel
-The highest trial-to-paid rate of any category at 43.5%. It's seasonal by nature, but that works in your favour. 8% of churned users reactivate every year when their next trip comes around. Hard to beat a built-in comeback loop like that.
-
 [don‘t know what product or feature to build?](https://x.com/onlinedopamine/status/2028782843732840829)
 
 [The easiest path to a viral indie app right now (that actually makes money)](https://x.com/WasimShips/status/2022694971191476255)
@@ -22,8 +11,6 @@ Profitable niches usually have 3 things:
 - A daily habit 
 
 ## Vibecoding guides, checklists and rules
-![HDiI27nWMAADgEc](https://github.com/user-attachments/assets/07651592-4074-4687-ba6c-35123824c9d0)
-
 [This is how I scaled my mobile app to $25k+/month (The Complete Guide)](https://x.com/maubaron/status/2027551137768083619)
 
 [I built 10 apps in 10 months and make $800,000/yr ( full guide )](https://x.com/ErnestoSOFTWARE/status/2014110519913857122)
@@ -37,6 +24,8 @@ Profitable niches usually have 3 things:
 [Pre-submission compliance scanner for the Apple App Store Greenlight repo](https://github.com/RevylAI/greenlight)
 
 [HOW TO GET YOUR FIRST 100 PAYING USERS WITH ZERO AD SPEND](https://x.com/om_patel5/status/2032306365822017847)
+
+[RevenueCat Paywalls analysis](https://x.com/alwaysjoshp/status/2033910979353104658/)
 
 ## Icons
 [Lucide (Free)](https://lucide.dev/)
