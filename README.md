@@ -1,5 +1,20 @@
+## General links
+[Designs - Figma](https://www.figma.com/community/mobile-apps/)
+
+[Designs - Canva](https://www.canva.com/)
+
+[Hosting - Vercel](https://vercel.com/)
+
+[Backend - Supabase](https://supabase.com/)
+
+[Subscriptions - Revenue Cat](https://www.revenuecat.com/)
+
+[Paywall - Superwall](https://superwall.com/)
+
 ## Ideas
 [App store tracker](https://www.appstoretracker.com/)
+
+[Google Trends](https://trends.google.com/explore?geo=US)
 
 [don‘t know what product or feature to build?](https://x.com/onlinedopamine/status/2028782843732840829)
 
@@ -45,8 +60,6 @@ Profitable niches usually have 3 things:
 [Streamline (Paid)](https://www.streamlinehq.com/)
 
 ## UI/UX
-[Figma](https://www.figma.com/community/mobile-apps/)
-
 [UXSnaps](https://www.uxsnaps.com/)
 
 [Mobbin](https://mobbin.com/)
@@ -58,6 +71,8 @@ Profitable niches usually have 3 things:
 [Design/UI/UX skills](https://impeccable.style/)
 
 [Before.click](https://before.click/)
+
+[Stitch](https://stitch.withgoogle.com/)
 
 Profitable iOS apps have 1 thing in common, 3 easy retention loops:
 - streaks
@@ -160,8 +175,7 @@ After Day 30
 → Add second account
 → Expand to more platforms
 
-Rule:
-Don’t scale before something works
+[Reel Farm](https://reel.farm/)
 
 [Using proxies to target US audiences](https://x.com/jessieclipping/status/2024561461864124505)
 
@@ -204,3 +218,5 @@ Don’t scale before something works
 [How to Build an OpenClaw That Automates Your Marketing](https://x.com/startupideaspod/status/2031100491715981806)
 
 [We turned Openclaw into a self improving vibe marketer for our $300,000/yr app.](https://x.com/ErnestoSOFTWARE/status/2033917717762191659)
+
+[“I get millions of TikTok views & sales using OpenClaw like this…”](https://x.com/AndrewWarner/status/2034299988231045509)
