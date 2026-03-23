@@ -95,20 +95,19 @@ Retention > features!
 [Profitable iOS apps have these 5 things in common](https://x.com/Hartdrawss/status/2025865883533406380)
 
 ## Onboarding
-[Headspace](https://x.com/cesaralvarezll/status/2036122949342609725)
+[Headspace App](https://x.com/cesaralvarezll/status/2036122949342609725)
 
 [Plandra App](https://x.com/AmenaiSabuwala/status/2031042502564683826)
 
 [Opal App](https://x.com/cesaralvarezll/status/2032513612497969591)
-(https://x.com/alice_ercolani/status/2036004810621948034)
+
+[Opal App](https://x.com/alice_ercolani/status/2036004810621948034)
 
 [Balance App](https://x.com/alice_ercolani/status/2031188338737385861)
 
 [MacroFactor App](https://x.com/adriamatz/status/2030674462480240832)
 
 [Rock Identifier - premium look](https://x.com/adriamatz/status/2032410618381181130)
-
-[Opal](https://x.com/alice_ercolani/status/2036004810621948034)(https://x.com/cesaralvarezll/status/2032513612497969591)
 
 [You need this on your onboarding, → Fake analyzing screen → Personalized chart → Graph going up before you've done anything](https://x.com/adriamatz/status/2032845852746637414)
 
