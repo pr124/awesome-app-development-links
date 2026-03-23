@@ -95,6 +95,8 @@ Retention > features!
 [Profitable iOS apps have these 5 things in common](https://x.com/Hartdrawss/status/2025865883533406380)
 
 ## Onboarding
+[Headspace](https://x.com/cesaralvarezll/status/2036122949342609725)
+
 [Plandra App](https://x.com/AmenaiSabuwala/status/2031042502564683826)
 
 [Opal App](https://x.com/cesaralvarezll/status/2032513612497969591)
