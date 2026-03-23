@@ -108,7 +108,7 @@ Retention > features!
 
 [Rock Identifier - premium look](https://x.com/adriamatz/status/2032410618381181130)
 
-[Opa
+[Opal](https://x.com/alice_ercolani/status/2036004810621948034)(https://x.com/cesaralvarezll/status/2032513612497969591)
 
 [You need this on your onboarding, → Fake analyzing screen → Personalized chart → Graph going up before you've done anything](https://x.com/adriamatz/status/2032845852746637414)
 
