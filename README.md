@@ -60,6 +60,8 @@ Profitable niches usually have 3 things:
 [Streamline (Paid)](https://www.streamlinehq.com/)
 
 ## UI/UX
+[Stitch](https://stitch.withgoogle.com/)
+
 [UXSnaps](https://www.uxsnaps.com/)
 
 [Mobbin](https://mobbin.com/)
@@ -72,7 +74,7 @@ Profitable niches usually have 3 things:
 
 [Before.click](https://before.click/)
 
-[Stitch](https://stitch.withgoogle.com/)
+[60fps design inspirations](https://60fps.design/apps)
 
 Profitable iOS apps have 1 thing in common, 3 easy retention loops:
 - streaks
