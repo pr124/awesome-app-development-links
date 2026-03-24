@@ -94,6 +94,8 @@ Retention > features!
 
 [Profitable iOS apps have these 5 things in common](https://x.com/Hartdrawss/status/2025865883533406380)
 
+[Google Stitch tutorial](https://x.com/jspujji/status/2034978670687969484)
+
 ## Onboarding
 [Headspace App](https://x.com/cesaralvarezll/status/2036122949342609725)
 
@@ -123,6 +125,8 @@ Retention > features!
 [Arcads](https://www.arcads.ai/)
 
 [Bluma](https://www.getbluma.com/)
+
+[Freepik](https://www.freepik.com/app)
 
 [NanoBanana2 Tutorial](https://x.com/NanoBanana/status/2031739390561792084)
 
@@ -201,12 +205,18 @@ After Day 30
 
 [How I made $22k in 8 months posting faceless tiktoks for apps (and how you can start this week)](https://x.com/jessieclipping/status/2022745577608380794)
 
+[40 viral hooks for your next month of posts.](https://x.com/wesocialgrowth/status/2033980972858069152)
+
 ## Claude Code and skills
+[Top 50 Claude Skills & GitHub  Repos for AI — The Only List You  Need.](https://x.com/zodchiii/status/2034924354337714642)
+
 [the complete guide to building skills for claude/codex](https://x.com/rohit4verse/status/2021622526112358663)
 
 [Best Practices for Claude Code (Use these to make Claude Code 100x Powerful):](https://x.com/Meer_AIIT/status/2027509711722188976)
 
 [Claude Code tips from Boris](https://x.com/bcherny/status/2017742741636321619)
+
+[Lessons from Building Claude Code: How We Use Skills](https://x.com/trq212/status/2033949937936085378)
 
 ## OpenClaw
 [OpenClaw security checklist](https://x.com/johann_sath/status/2023764075906560247)
