@@ -99,6 +99,8 @@ Retention > features!
 [Google Stitch tutorial](https://x.com/jspujji/status/2034978670687969484)
 
 ## Onboarding
+[Cal Ai](https://x.com/cesaralvarezll/status/2036873854455255505)
+
 [Headspace App](https://x.com/cesaralvarezll/status/2036122949342609725)
 
 [Plandra App](https://x.com/AmenaiSabuwala/status/2031042502564683826)
