@@ -113,6 +113,8 @@ Retention > features!
 
 [MacroFactor App](https://x.com/adriamatz/status/2030674462480240832)
 
+[Waterllama](https://x.com/cesaralvarezll/status/2037170874873188833)
+
 [Rock Identifier - premium look](https://x.com/adriamatz/status/2032410618381181130)
 
 [You need this on your onboarding, → Fake analyzing screen → Personalized chart → Graph going up before you've done anything](https://x.com/adriamatz/status/2032845852746637414)
