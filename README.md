@@ -42,7 +42,11 @@ Profitable niches usually have 3 things:
 
 [RevenueCat Paywalls analysis](https://x.com/alwaysjoshp/status/2033910979353104658/)
 
-## Icons
+## Fonts, Colors, Icons
+[Google Fonts](https://fonts.google.com/)
+
+[Color palettes](https://coolors.co/)
+
 [Lucide (Free)](https://lucide.dev/)
 
 [Phosphor Icons (Free)](https://phosphoricons.com/)
