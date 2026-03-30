@@ -64,6 +64,12 @@ Profitable niches usually have 3 things:
 [Streamline (Paid)](https://www.streamlinehq.com/)
 
 ## UI/UX
+Profitable iOS apps have 1 thing in common, 3 easy retention loops:
+- streaks
+- reminders
+- weekly recap
+Retention > features!
+
 [Stitch](https://stitch.withgoogle.com/)
 
 [UXSnaps](https://www.uxsnaps.com/)
@@ -79,12 +85,6 @@ Profitable niches usually have 3 things:
 [Before.click](https://before.click/)
 
 [60fps design inspirations](https://60fps.design/apps)
-
-Profitable iOS apps have 1 thing in common, 3 easy retention loops:
-- streaks
-- reminders
-- weekly recap
-Retention > features!
 
 [Neuro App onboarding UI tutorioal](https://x.com/AliGrids/status/2033411362077208604)
 
@@ -227,6 +227,8 @@ After Day 30
 [Claude Code tips from Boris](https://x.com/bcherny/status/2017742741636321619)
 
 [Lessons from Building Claude Code: How We Use Skills](https://x.com/trq212/status/2033949937936085378)
+
+[Improve context window for Claude Code by removing stale plugin cache](https://www.reddit.com/r/ClaudeAI/comments/1rij9tr/psa_your_claude_code_plugins_are_probably_loading/)
 
 ## OpenClaw
 [OpenClaw security checklist](https://x.com/johann_sath/status/2023764075906560247)
