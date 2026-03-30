@@ -22,6 +22,7 @@ A curated collection of resources for indie mobile app developers — from desig
 
 | Resource | Category |
 |----------|----------|
+| [Google Stitch](https://stitch.withgoogle.com/) | Design |
 | [Figma Community](https://www.figma.com/community/mobile-apps/) | Design |
 | [Canva](https://www.canva.com/) | Design |
 | [Vercel](https://vercel.com/) | Hosting |
@@ -90,8 +91,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Before.click](https://before.click/)
 - [60fps Design](https://60fps.design/apps)
 
-**Tools**
-- [Google Stitch](https://stitch.withgoogle.com/) — AI-powered UI design
+**Skills**
 - [Design/UI/UX Skills](https://impeccable.style/)
 
 **Guides**
@@ -137,6 +137,8 @@ Real-world breakdowns of effective onboarding flows:
 - [Arcads](https://www.arcads.ai/)
 - [Bluma](https://www.getbluma.com/)
 - [Freepik](https://www.freepik.com/app)
+- [Reel Farm](https://reel.farm/)
+
 
 **Guides**
 - [NanoBanana AI Content Tutorial](https://x.com/NanoBanana/status/2031739390561792084)
@@ -166,9 +168,6 @@ Real-world breakdowns of effective onboarding flows:
 | Warmup | 1–7 | Create account, clean bio, scroll your niche, like/comment/follow/save — do NOT post |
 | Launch | 8–30 | Post 1 video/day, recreate proven viral formats, focus on watch time + comments, soft CTA |
 | Scale | 30+ | Double down on winning formats, 2–3 posts/day, add second account, expand platforms |
-
-**Tools**
-- [Reel Farm](https://reel.farm/)
 
 **Guides**
 - [Using Proxies to Target US Audiences](https://x.com/jessieclipping/status/2024561461864124505)
