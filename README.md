@@ -134,6 +134,7 @@ Real-world breakdowns of effective onboarding flows:
 ## UGC & Content Creation
 
 **Tools**
+- [Apify - Web scraper](https://apify.com/store)
 - [Arcads](https://www.arcads.ai/)
 - [Bluma](https://www.getbluma.com/)
 - [Freepik](https://www.freepik.com/app)
