@@ -13,7 +13,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Security](#security)
 - [UGC & Content Creation](#ugc--content-creation)
 - [TikTok Marketing](#tiktok-marketing)
-- [Claude Code & AI Skills](#claude-code--ai-skills)
+- [Claude Code, Codex & Skills](#claude-code--ai-skills)
 - [OpenClaw](#openclaw)
 
 ---
@@ -185,7 +185,7 @@ Real-world breakdowns of effective onboarding flows:
 
 ---
 
-## Claude Code & AI Skills
+## Claude Code, Codex & AI Skills
 
 - [Top 50 Claude Skills & GitHub Repos for AI](https://x.com/zodchiii/status/2034924354337714642)
 - [The Complete Guide to Building Skills for Claude/Codex](https://x.com/rohit4verse/status/2021622526112358663)
@@ -193,6 +193,7 @@ Real-world breakdowns of effective onboarding flows:
 - [Claude Code Tips from Boris](https://x.com/bcherny/status/2017742741636321619)
 - [Lessons from Building Claude Code: How We Use Skills](https://x.com/trq212/status/2033949937936085378)
 - [Improve Context Window by Removing Stale Plugin Cache](https://www.reddit.com/r/ClaudeAI/comments/1rij9tr/psa_your_claude_code_plugins_are_probably_loading/)
+- [Codex Prompting Guide](https://developers.openai.com/cookbook/examples/gpt-5/codex_prompting_guide)
 
 ---
 
