@@ -119,6 +119,7 @@ Real-world breakdowns of effective onboarding flows:
 - [MacroFactor](https://x.com/adriamatz/status/2030674462480240832)
 - [Waterllama](https://x.com/cesaralvarezll/status/2037170874873188833)
 - [Rock Identifier — Premium Look](https://x.com/adriamatz/status/2032410618381181130)
+- [Arise](https://x.com/adriamatz/status/2038943537564143716)
 - [Fake analyzing screen → Personalized chart → Graph going up (proven conversion pattern)](https://x.com/adriamatz/status/2032845852746637414)
 
 ---
@@ -157,6 +158,9 @@ Real-world breakdowns of effective onboarding flows:
 - [How to Make AI UGC That Actually Looks Real](https://x.com/jacobgrowth/status/2032156967540605251)
 - [How to Grow $100k/mo Apps With AI UGC](https://x.com/fuckgrowth/status/2032147774834118704)
 - [Complete Guide: AI Content Factory That Generates $50K/mo](https://x.com/kritarthmittal/status/2029505868266619030)
+- [The 5 ways to scale your app](https://x.com/ErnestoSOFTWARE/status/2038622376640864287)
+- [How to grow your app from 0 to 100k users (PLAYBOOK)](https://x.com/DeRonin_/status/2038235735120101529)
+- [how to make $100k/mo with AI slideshows](https://x.com/roman_khaves/status/2037610375177224672)
 
 ---
 
@@ -172,6 +176,7 @@ Real-world breakdowns of effective onboarding flows:
 
 **Guides**
 - [Using Proxies to Target US Audiences](https://x.com/jessieclipping/status/2024561461864124505)
+- [How to make a USA tiktok business account](https://x.com/athcanft/status/2039571658474930177)
 - [TikTok Account Warmup Guide](https://x.com/jackfriks/status/1856013303169847470)
 - [10 TikTok Growth Hacks for App Accounts](https://x.com/wesocialgrowth/status/2026371587298275834)
 - [How I Made $34,567 in 4 Months Posting Slideshows](https://x.com/xaviergrowths/status/2028548006942064879)
@@ -182,17 +187,20 @@ Real-world breakdowns of effective onboarding flows:
 - [3M+ Views — Brand New Account, 100% Organic](https://x.com/KCodes7777/status/2023900671003836437)
 - [How I Made $22k in 8 Months Posting Faceless TikToks](https://x.com/jessieclipping/status/2022745577608380794)
 - [40 Viral Hooks for Your Next Month of Posts](https://x.com/wesocialgrowth/status/2033980972858069152)
+- [The highest-performing hooks have one thing in common -> Tension](https://x.com/jaxxdwyer/status/2036850928524157256)
 
 ---
 
 ## Claude Code, Codex & AI Skills
 
+- [Top 20 Claude Code Commands Everyone Should Know](https://x.com/zodchiii/status/2038909113795584094)
 - [Top 50 Claude Skills & GitHub Repos for AI](https://x.com/zodchiii/status/2034924354337714642)
 - [The Complete Guide to Building Skills for Claude/Codex](https://x.com/rohit4verse/status/2021622526112358663)
 - [Best Practices for Claude Code](https://x.com/Meer_AIIT/status/2027509711722188976)
 - [Claude Code Tips from Boris](https://x.com/bcherny/status/2017742741636321619)
 - [Lessons from Building Claude Code: How We Use Skills](https://x.com/trq212/status/2033949937936085378)
 - [Improve Context Window by Removing Stale Plugin Cache](https://www.reddit.com/r/ClaudeAI/comments/1rij9tr/psa_your_claude_code_plugins_are_probably_loading/)
+- [10 things to stop hitting Claude's usage limits](https://x.com/0x_kaize/status/2038286026284667239)
 - [Codex Prompting Guide](https://developers.openai.com/cookbook/examples/gpt-5/codex_prompting_guide)
 
 ---
