@@ -13,7 +13,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Security](#security)
 - [UGC & Content Creation](#ugc--content-creation)
 - [TikTok Marketing](#tiktok-marketing)
-- [Claude Code, Codex & Skills](#claude-code--ai-skills)
+- [Claude Code, Codex & Skills](#Claude Code, Codex & AI Skills)
 - [OpenClaw](#openclaw)
 
 ---
