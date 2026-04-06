@@ -178,15 +178,12 @@ Real-world breakdowns of effective onboarding flows:
 **Guides**
 - [Using Proxies to Target US Audiences](https://x.com/jessieclipping/status/2024561461864124505)
 - [How to make a USA tiktok business account](https://x.com/athcanft/status/2039571658474930177)
-- [TikTok Account Warmup Guide](https://x.com/jackfriks/status/1856013303169847470)
 - [10 TikTok Growth Hacks for App Accounts](https://x.com/wesocialgrowth/status/2026371587298275834)
-- [How I Made $34,567 in 4 Months Posting Slideshows](https://x.com/xaviergrowths/status/2028548006942064879)
 - [The Fastest Way to Do TikTok Marketing](https://x.com/mattwelter/status/2028539237721952441)
 - [How One Word Got 1.4M Views](https://x.com/manucastilloll/status/2028170385561211057)
 - ["I found this app and it kinda feels illegal" — Viral Format](https://x.com/KCodes7777/status/2023769392404660354)
 - [TikTok Farming Playbook (30 phones, 50M+ views)](https://x.com/JosephKChoi/status/2024201897322709065)
 - [3M+ Views — Brand New Account, 100% Organic](https://x.com/KCodes7777/status/2023900671003836437)
-- [How I Made $22k in 8 Months Posting Faceless TikToks](https://x.com/jessieclipping/status/2022745577608380794)
 - [40 Viral Hooks for Your Next Month of Posts](https://x.com/wesocialgrowth/status/2033980972858069152)
 - [The highest-performing hooks have one thing in common -> Tension](https://x.com/jaxxdwyer/status/2036850928524157256)
 
