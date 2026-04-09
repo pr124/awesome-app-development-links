@@ -38,6 +38,7 @@ A curated collection of resources for indie mobile app developers — from desig
 > Profitable niches usually have 3 things: a clear before/after, a subscription people don't cancel, and a daily habit.
 
 - [App Store Tracker](https://www.appstoretracker.com/) — Track trending apps
+- [Apps for sale](https://flippa.com/apps) - Search popular apps to see demand
 - [Google Trends](https://trends.google.com/explore?geo=US) — Spot rising search interest
 - [What product or feature to build?](https://x.com/onlinedopamine/status/2028782843732840829)
 - [The easiest path to a viral indie app right now](https://x.com/WasimShips/status/2022694971191476255)
