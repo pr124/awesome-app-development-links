@@ -46,6 +46,8 @@ A curated collection of resources for indie mobile app developers — from desig
 
 ## Guides & Checklists
 
+> Remove dead code with --- Delete all dead code. Use ruff and vulture ---
+
 - [Scaled to $25k+/month — The Complete Guide](https://x.com/maubaron/status/2027551137768083619)
 - [Built 10 apps in 10 months, $800k/yr — Full guide](https://x.com/ErnestoSOFTWARE/status/2014110519913857122)
 - [Vibe Coding 2.0: 18 Rules to be the Top 1% Builder](https://x.com/Hartdrawss/status/2026198305362083910)
