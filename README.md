@@ -31,6 +31,7 @@ A curated collection of resources for indie mobile app developers — from desig
 | [RevenueCat](https://www.revenuecat.com/) | Subscriptions |
 | [Superwall](https://superwall.com/) | Paywalls |
 | [Adapty](https://adapty.io/) | Analytics |
+| [Postiz](https://postiz.com/) | Agentic social media scheduling |
 
 ---
 
@@ -171,7 +172,8 @@ Real-world breakdowns of effective onboarding flows:
 ---
 
 ## TikTok Marketing
-
+- [Spark Ads by TikTok](https://ads.tiktok.com/help/article/spark-ads)
+  
 **Account Launch Strategy**
 
 | Phase | Days | Actions |
@@ -219,3 +221,4 @@ Real-world breakdowns of effective onboarding flows:
 - [How to Build an OpenClaw That Automates Your Marketing](https://x.com/startupideaspod/status/2031100491715981806)
 - [Self-Improving Vibe Marketer for a $300k/yr App](https://x.com/ErnestoSOFTWARE/status/2033917717762191659)
 - [Getting Millions of TikTok Views & Sales Using OpenClaw](https://x.com/AndrewWarner/status/2034299988231045509)
+- [How I Completely Automated My iOS App's Tiktok Account With Openclaw](https://x.com/ashen_one/status/2041925268818788390)
