@@ -59,6 +59,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Greenlight — Pre-submission compliance scanner for App Store](https://github.com/RevylAI/greenlight)
 - [How to Get Your First 100 Paying Users With Zero Ad Spend](https://x.com/om_patel5/status/2032306365822017847)
 - [RevenueCat Paywalls Analysis](https://x.com/alwaysjoshp/status/2033910979353104658/)
+- [Market research for marketing](https://x.com/StevenCravotta/status/2017688871648076159)
 
 ---
 
