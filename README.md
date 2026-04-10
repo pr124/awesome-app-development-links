@@ -201,6 +201,7 @@ Real-world breakdowns of effective onboarding flows:
 - [The highest-performing hooks have one thing in common -> Tension](https://x.com/jaxxdwyer/status/2036850928524157256)
 - [Health app hooks](https://x.com/tatealax/status/2032568967513207271)
 - [How to create talking object videos](https://x.com/natiakourdadze/status/2035810398180344021)
+- [Using comments section to promote app](https://x.com/affprinter/status/2036070906821505407)
 
 ---
 
