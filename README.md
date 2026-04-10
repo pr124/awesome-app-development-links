@@ -59,6 +59,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Greenlight — Pre-submission compliance scanner for App Store](https://github.com/RevylAI/greenlight)
 - [How to Get Your First 100 Paying Users With Zero Ad Spend](https://x.com/om_patel5/status/2032306365822017847)
 - [RevenueCat Paywalls Analysis](https://x.com/alwaysjoshp/status/2033910979353104658/)
+- [20 things that make your VIBE CODED app a SINKING SHIP](https://x.com/Hartdrawss/status/2035378419278532928)
 - [Market research for marketing](https://x.com/StevenCravotta/status/2017688871648076159)
 
 ---
@@ -170,6 +171,9 @@ Real-world breakdowns of effective onboarding flows:
 - [The 5 ways to scale your app](https://x.com/ErnestoSOFTWARE/status/2038622376640864287)
 - [How to grow your app from 0 to 100k users (PLAYBOOK)](https://x.com/DeRonin_/status/2038235735120101529)
 - [how to make $100k/mo with AI slideshows](https://x.com/roman_khaves/status/2037610375177224672)
+- [We got 7M views on YouTube with completely automated content](https://x.com/maubaron/status/2030716132093460742)
+- [how to get 100M+ views with ugc (my $0 to $100k MRR playbook)](https://x.com/roman_khaves/status/2034999438779814202)
+- [How Brands Can Scale With UGC Content using AI Workflows](https://x.com/jacobgrowth/status/2035439474490933396)
 
 ---
 
@@ -196,6 +200,7 @@ Real-world breakdowns of effective onboarding flows:
 - [40 Viral Hooks for Your Next Month of Posts](https://x.com/wesocialgrowth/status/2033980972858069152)
 - [The highest-performing hooks have one thing in common -> Tension](https://x.com/jaxxdwyer/status/2036850928524157256)
 - [Health app hooks](https://x.com/tatealax/status/2032568967513207271)
+- [How to create talking object videos](https://x.com/natiakourdadze/status/2035810398180344021)
 
 ---
 
