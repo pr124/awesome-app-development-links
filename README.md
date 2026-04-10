@@ -14,7 +14,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [UGC & Content Creation](#ugc--content-creation)
 - [TikTok Marketing](#tiktok-marketing)
 - [Claude Code, Codex & Skills](#claude-code-codex--aI-skills)
-- [Automation with Agents](#Agents)
+- [Automation with Agents](#Automation-with-Agents)
 
 ---
 
