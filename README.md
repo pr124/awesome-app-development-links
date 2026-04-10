@@ -116,8 +116,6 @@ A curated collection of resources for indie mobile app developers — from desig
 
 ## Onboarding
 
-Real-world breakdowns of effective onboarding flows:
-
 - [Cal AI](https://x.com/cesaralvarezll/status/2036873854455255505)
 - [Headspace](https://x.com/cesaralvarezll/status/2036122949342609725)
 - [Plandra](https://x.com/AmenaiSabuwala/status/2031042502564683826)
@@ -223,10 +221,5 @@ Real-world breakdowns of effective onboarding flows:
 ## Automation with Agents
 
 - [How Larry Got Millions of TikTok Views in One Week — Full Guide](https://x.com/oliverhenry/status/2022011925903667547)
-- [2 Skills to Get Millions of TikTok Views This Month](https://x.com/jackfriks/status/2022334105820471632)
-- [Short-Form Video Marketing Machine Using OpenClaw](https://x.com/gregisenberg/status/2031107609852325980)
-- [How "Eddie" Helps Us Make $70k/mo With B2C Apps](https://x.com/ErnestoSOFTWARE/status/2027105511569809899)
-- [How to Build an OpenClaw That Automates Your Marketing](https://x.com/startupideaspod/status/2031100491715981806)
 - [Self-Improving Vibe Marketer for a $300k/yr App](https://x.com/ErnestoSOFTWARE/status/2033917717762191659)
-- [Getting Millions of TikTok Views & Sales Using OpenClaw](https://x.com/AndrewWarner/status/2034299988231045509)
 - [How I Completely Automated My iOS App's Tiktok Account With Openclaw](https://x.com/ashen_one/status/2041925268818788390)
