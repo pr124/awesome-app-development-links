@@ -127,6 +127,7 @@ Real-world breakdowns of effective onboarding flows:
 - [Rock Identifier — Premium Look](https://x.com/adriamatz/status/2032410618381181130)
 - [Arise](https://x.com/adriamatz/status/2038943537564143716)
 - [Olive - Food Scanner](https://x.com/Siron93/status/2041171892778733627)
+- [Picture Bird](https://x.com/adriamatz/status/2035696735138324620)
 - [Fake analyzing screen → Personalized chart → Graph going up (proven conversion pattern)](https://x.com/adriamatz/status/2032845852746637414)
 
 ---
