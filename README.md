@@ -214,7 +214,6 @@ Real-world breakdowns of effective onboarding flows:
 
 ## OpenClaw
 
-- [OpenClaw Security Checklist](https://x.com/johann_sath/status/2023764075906560247)
 - [How Larry Got Millions of TikTok Views in One Week — Full Guide](https://x.com/oliverhenry/status/2022011925903667547)
 - [2 Skills to Get Millions of TikTok Views This Month](https://x.com/jackfriks/status/2022334105820471632)
 - [Short-Form Video Marketing Machine Using OpenClaw](https://x.com/gregisenberg/status/2031107609852325980)
