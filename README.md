@@ -14,7 +14,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [UGC & Content Creation](#ugc--content-creation)
 - [TikTok Marketing](#tiktok-marketing)
 - [Claude Code, Codex & Skills](#claude-code-codex--aI-skills)
-- [Agents](#Agents)
+- [Automation with Agents](#Agents)
 
 ---
 
@@ -220,7 +220,7 @@ Real-world breakdowns of effective onboarding flows:
 
 ---
 
-## OpenClaw
+## Automation with Agents
 
 - [How Larry Got Millions of TikTok Views in One Week — Full Guide](https://x.com/oliverhenry/status/2022011925903667547)
 - [2 Skills to Get Millions of TikTok Views This Month](https://x.com/jackfriks/status/2022334105820471632)
