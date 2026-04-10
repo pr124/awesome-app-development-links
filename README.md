@@ -14,7 +14,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [UGC & Content Creation](#ugc--content-creation)
 - [TikTok Marketing](#tiktok-marketing)
 - [Claude Code, Codex & Skills](#claude-code-codex--aI-skills)
-- [OpenClaw](#openclaw)
+- [Agents](#Agents)
 
 ---
 
@@ -216,6 +216,7 @@ Real-world breakdowns of effective onboarding flows:
 - [Improve Context Window by Removing Stale Plugin Cache](https://www.reddit.com/r/ClaudeAI/comments/1rij9tr/psa_your_claude_code_plugins_are_probably_loading/)
 - [10 things to stop hitting Claude's usage limits](https://x.com/0x_kaize/status/2038286026284667239)
 - [Codex Prompting Guide](https://developers.openai.com/cookbook/examples/gpt-5/codex_prompting_guide)
+- [Scale apps to $20k/mo with agents](https://x.com/ErnestoSOFTWARE/status/2037187494530208029)
 
 ---
 
