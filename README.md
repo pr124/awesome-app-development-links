@@ -191,7 +191,6 @@ A curated collection of resources for indie mobile app developers — from desig
 - [How to make a USA tiktok business account](https://x.com/athcanft/status/2039571658474930177)
 - [10 TikTok Growth Hacks for App Accounts](https://x.com/wesocialgrowth/status/2026371587298275834)
 - [The Fastest Way to Do TikTok Marketing](https://x.com/mattwelter/status/2028539237721952441)
-- [How One Word Got 1.4M Views](https://x.com/manucastilloll/status/2028170385561211057)
 - ["I found this app and it kinda feels illegal" — Viral Format](https://x.com/KCodes7777/status/2023769392404660354)
 - [TikTok Farming Playbook (30 phones, 50M+ views)](https://x.com/JosephKChoi/status/2024201897322709065)
 - [3M+ Views — Brand New Account, 100% Organic](https://x.com/KCodes7777/status/2023900671003836437)
