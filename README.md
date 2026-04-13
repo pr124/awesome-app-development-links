@@ -10,7 +10,6 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Fonts, Colors & Icons](#fonts-colors--icons)
 - [UI/UX Design](#uiux-design)
 - [Onboarding](#onboarding)
-- [Security](#security)
 - [UGC & Content Creation](#ugc--content-creation)
 - [TikTok Marketing](#tiktok-marketing)
 - [Claude Code, Codex & Skills](#claude-code-codex--aI-skills)
@@ -55,6 +54,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Built 10 apps in 10 months, $800k/yr — Full guide](https://x.com/ErnestoSOFTWARE/status/2014110519913857122)
 - [Vibe Coding 2.0: 18 Rules to be the Top 1% Builder](https://x.com/Hartdrawss/status/2026198305362083910)
 - [The $10k MRR Stack — How I Ship Mobile Apps](https://x.com/WasimShips/status/2025830907358347662)
+- [30 Security Rules to be the Top 1% Vibe Coder](https://x.com/WasimShips/status/2029811248012173658)
 - [Ultimate App Submission Checklist](https://x.com/Hartdrawss/status/2022272233515712847)
 - [Greenlight — Pre-submission compliance scanner for App Store](https://github.com/RevylAI/greenlight)
 - [How to Get Your First 100 Paying Users With Zero Ad Spend](https://x.com/om_patel5/status/2032306365822017847)
@@ -129,14 +129,6 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Olive - Food Scanner](https://x.com/Siron93/status/2041171892778733627)
 - [Picture Bird](https://x.com/adriamatz/status/2035696735138324620)
 - [Fake analyzing screen → Personalized chart → Graph going up (proven conversion pattern)](https://x.com/adriamatz/status/2032845852746637414)
-
----
-
-## Security
-
-- [30 Security Rules to be the Top 1% Vibe Coder](https://x.com/WasimShips/status/2029811248012173658)
-- [Vibe Coding Security Checklist](https://x.com/DeFiMinty/status/2029049629287895528)
-- [How to Build Secure Vibe-Coded Apps](https://x.com/burakeregar/status/2014696329549648137)
 
 ---
 
