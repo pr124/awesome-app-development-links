@@ -207,6 +207,7 @@ A curated collection of resources for indie mobile app developers — from desig
 
 - [Top 20 Claude Code Commands Everyone Should Know](https://x.com/zodchiii/status/2038909113795584094)
 - [Top 50 Claude Skills & GitHub Repos for AI](https://x.com/zodchiii/status/2034924354337714642)
+- [10 Claude Code features from the official docs that nobody uses](https://x.com/sharbel/status/2040461006757892273)
 - [The Complete Guide to Building Skills for Claude/Codex](https://x.com/rohit4verse/status/2021622526112358663)
 - [Best Practices for Claude Code](https://x.com/Meer_AIIT/status/2027509711722188976)
 - [Claude Code Tips from Boris](https://x.com/bcherny/status/2017742741636321619)
