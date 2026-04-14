@@ -140,6 +140,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Bluma](https://www.getbluma.com/)
 - [Freepik](https://www.freepik.com/app)
 - [Reel Farm](https://reel.farm/)
+- [MakeUGC](https://www.makeugc.ai/)
 
 
 **Guides**
@@ -164,6 +165,24 @@ A curated collection of resources for indie mobile app developers — from desig
 - [We got 7M views on YouTube with completely automated content](https://x.com/maubaron/status/2030716132093460742)
 - [how to get 100M+ views with ugc (my $0 to $100k MRR playbook)](https://x.com/roman_khaves/status/2034999438779814202)
 - [How Brands Can Scale With UGC Content using AI Workflows](https://x.com/jacobgrowth/status/2035439474490933396)
+- [the ULTIMATE 48h doomsday guide to vibecode & scale your app to $10M ARR](https://x.com/growthsuck/status/2035991110334423469)
+- [If I launched an IOS app today and needed $1k MRR fast, I'd do this](https://x.com/arthuryuzbashew/status/2040501406063526075)
+- [How I've Turned Kling 3.0 + Viral Reels Into $800K+ For Brands](https://x.com/adriansolarzz/status/2042588532011586026)
+- [how to predict v*rality](https://x.com/fuckgrowth/status/2041580077826371733)
+- [How to Create Your AI Model / Influencer That Generates](https://x.com/51bodila/status/2042643878226841903)
+- [How to Exploit AI to Create Fake Female Outreach Accounts ($1M+ Money Grab)](https://x.com/dimitarangg/status/2042560430409679249)
+- [How to Create High ROAS UGC Ads](https://x.com/AlessandroLavis/status/2042946012268875917)
+- [How I spent 30 minutes a day on Reddit to get my first 100 customers (learnings)](https://x.com/TimJayas/status/2042879715464376626)
+- [How literal kids are making thousands per day with AI](https://x.com/Ecom_Linus/status/2042996126320677073)
+- [Seedance 2.0 Full Step-By-Step Guide + Advanced Techniques](https://x.com/Mho_23/status/2043060741616603442)
+- [Build a Automated AI System with Claude + Seedance 2.0](https://x.com/spwfeijen/status/2043692176689795202)
+- [I spent 1 week making TikToks. Then I stopped.](https://x.com/adensdk/status/2043763099841302908)
+- [the dark psychology behind AI UGC that prints](https://x.com/adriansolarzz/status/2043751295572742448)
+- [How To Make AI UGC That ACTUALLY Converts](https://x.com/pounddz/status/2043965298923999447)
+- [We spent $150,000 on Seedance 2 credits and achieved video AGI](https://x.com/starks_arq/status/2043007296477823216)
+- [how to ACTUALLY go viral on every video](https://x.com/twoclipping/status/2043383780963143715)
+- [how to build an AI content machine (step-by-step playbook)](https://x.com/sferro21/status/2043685806443773988)
+- [The Seedance 2.0 Prompting Bible](https://x.com/EXM7777/status/2044072293383712878)
 
 ---
 
@@ -186,6 +205,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [TikTok Farming Playbook (30 phones, 50M+ views)](https://x.com/JosephKChoi/status/2024201897322709065)
 - [Health app hooks](https://x.com/tatealax/status/2032568967513207271)
 - [How to create talking object videos](https://x.com/natiakourdadze/status/2035810398180344021)
+- [how to make $100k/mo with AI slideshows](https://x.com/karankendre/status/2037848401166168085)
 - [Using comments section to promote app](https://x.com/affprinter/status/2036070906821505407)
 
 ---
@@ -200,12 +220,14 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Best Practices for Claude Code](https://x.com/Meer_AIIT/status/2027509711722188976)
 - [Claude Code Tips from Boris](https://x.com/bcherny/status/2017742741636321619)
 - [Lessons from Building Claude Code: How We Use Skills](https://x.com/trq212/status/2033949937936085378)
-- [Codex Prompting Guide](https://developers.openai.com/cookbook/examples/gpt-5/codex_prompting_guide)
+- [How to 10x your Claude Skills (using Karpathy's autoresearch method)](https://x.com/itsolelehmann/status/2033919415771713715)
 
 ---
 
 ## Automation with Agents
 
+- [What Hermes Agent Can Do for You (And Why It Matters)](https://x.com/blocmates/status/2042539396638085339)
 - [How Larry Got Millions of TikTok Views in One Week — Full Guide](https://x.com/oliverhenry/status/2022011925903667547)
 - [Self-Improving Vibe Marketer for a $300k/yr App](https://x.com/ErnestoSOFTWARE/status/2033917717762191659)
 - [How I Completely Automated My iOS App's Tiktok Account With Openclaw](https://x.com/ashen_one/status/2041925268818788390)
+- [Using Paperclip to run marketing](https://x.com/wickedguro/status/2039344437374156948)
