@@ -140,6 +140,8 @@ A curated collection of resources for indie mobile app developers — from desig
 
 - [The 5 ways to scale your app](https://x.com/ErnestoSOFTWARE/status/2038622376640864287)
 - [How I spent 30 minutes a day on Reddit to get my first 100 customers (learnings)](https://x.com/TimJayas/status/2042879715464376626)
+- [How to grow your app from 0 to 100k users (PLAYBOOK)](https://x.com/DeRonin_/status/2038235735120101529)
+
 
 ---
 
@@ -161,12 +163,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Why Your Content Won't Blow Up (and How to Fix It)](https://x.com/jessieclipping/status/2027030716219822359)
 - [6 Viral Post Formats for Text-Wall Videos](https://x.com/SimonasDip/status/2028183619697607093)
 - [Go Viral First, Then Optimize](https://x.com/iamgdsa/status/2027019954109722760)
-- [How AI Characters Generate Income 24/7](https://x.com/maxxmalist/status/2025263995251220784)
-- [$550/hr AI Creative Director](https://x.com/FynCas/status/2031026800696938855)
-- [How to Make AI UGC That Actually Looks Real](https://x.com/jacobgrowth/status/2032156967540605251)
-- [How to Grow $100k/mo Apps With AI UGC](https://x.com/fuckgrowth/status/2032147774834118704)
 - [Complete Guide: AI Content Factory That Generates $50K/mo](https://x.com/kritarthmittal/status/2029505868266619030)
-- [How to grow your app from 0 to 100k users (PLAYBOOK)](https://x.com/DeRonin_/status/2038235735120101529)
 - [how to make $100k/mo with AI slideshows](https://x.com/roman_khaves/status/2037610375177224672)
 - [We got 7M views on YouTube with completely automated content](https://x.com/maubaron/status/2030716132093460742)
 - [how to get 100M+ views with ugc (my $0 to $100k MRR playbook)](https://x.com/roman_khaves/status/2034999438779814202)
