@@ -164,7 +164,6 @@ A curated collection of resources for indie mobile app developers — from desig
 - [6 Viral Post Formats for Text-Wall Videos](https://x.com/SimonasDip/status/2028183619697607093)
 - [Go Viral First, Then Optimize](https://x.com/iamgdsa/status/2027019954109722760)
 - [Complete Guide: AI Content Factory That Generates $50K/mo](https://x.com/kritarthmittal/status/2029505868266619030)
-- [how to make $100k/mo with AI slideshows](https://x.com/roman_khaves/status/2037610375177224672)
 - [We got 7M views on YouTube with completely automated content](https://x.com/maubaron/status/2030716132093460742)
 - [how to get 100M+ views with ugc (my $0 to $100k MRR playbook)](https://x.com/roman_khaves/status/2034999438779814202)
 - [How Brands Can Scale With UGC Content using AI Workflows](https://x.com/jacobgrowth/status/2035439474490933396)
@@ -206,7 +205,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [TikTok Farming Playbook (30 phones, 50M+ views)](https://x.com/JosephKChoi/status/2024201897322709065)
 - [Health app hooks](https://x.com/tatealax/status/2032568967513207271)
 - [How to create talking object videos](https://x.com/natiakourdadze/status/2035810398180344021)
-- [how to make $100k/mo with AI slideshows](https://x.com/karankendre/status/2037848401166168085)
+- [how to make $100k/mo with AI slideshows](https://x.com/roman_khaves/status/2037610375177224672)
 - [I spent 1 week making TikToks. Then I stopped.](https://x.com/adensdk/status/2043763099841302908)
 - [Using comments section to promote app](https://x.com/affprinter/status/2036070906821505407)
 
