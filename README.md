@@ -128,7 +128,8 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Arise](https://x.com/adriamatz/status/2038943537564143716)
 - [Olive - Food Scanner](https://x.com/Siron93/status/2041171892778733627)
 - [Picture Bird](https://x.com/adriamatz/status/2035696735138324620)
-- [Fake analyzing screen → Personalized chart → Graph going up (proven conversion pattern)](https://x.com/adriamatz/status/2032845852746637414)
+- [Simply Piano](https://x.com/arielmichaeli/status/2044084374774198463)
+- [Wayk](https://x.com/jacobrodri_/status/2044075947218063475)
 
 ---
 
