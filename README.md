@@ -134,6 +134,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Wayk](https://x.com/jacobrodri_/status/2044075947218063475)
 - [Yazio](https://x.com/cesaralvarezll/status/2044096283594379516)
 - [Tai Chi](https://x.com/adriamatz/status/2044368207239070020)
+- [Unrot](https://x.com/Siron93/status/2044424962392387755)
 
 ---
 
