@@ -62,6 +62,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [RevenueCat Paywalls Analysis](https://x.com/alwaysjoshp/status/2033910979353104658/)
 - [20 things that make your VIBE CODED app a SINKING SHIP](https://x.com/Hartdrawss/status/2035378419278532928)
 - [Market research for marketing](https://x.com/StevenCravotta/status/2017688871648076159)
+- [Incorporate AI in apps cheaply](https://x.com/alexcooldev/status/2044454751556014113)
 
 ---
 
