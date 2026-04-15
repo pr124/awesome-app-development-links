@@ -124,12 +124,14 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Balance](https://x.com/alice_ercolani/status/2031188338737385861)
 - [MacroFactor](https://x.com/adriamatz/status/2030674462480240832)
 - [Waterllama](https://x.com/cesaralvarezll/status/2037170874873188833)
-- [Rock Identifier — Premium Look](https://x.com/adriamatz/status/2032410618381181130)
+- [Rock Identifier](https://x.com/adriamatz/status/2032410618381181130)
 - [Arise](https://x.com/adriamatz/status/2038943537564143716)
 - [Olive - Food Scanner](https://x.com/Siron93/status/2041171892778733627)
 - [Picture Bird](https://x.com/adriamatz/status/2035696735138324620)
 - [Simply Piano](https://x.com/arielmichaeli/status/2044084374774198463)
 - [Wayk](https://x.com/jacobrodri_/status/2044075947218063475)
+- [Yazio](https://x.com/cesaralvarezll/status/2044096283594379516)
+- [Tai Chi](https://x.com/adriamatz/status/2044368207239070020)
 
 ---
 
