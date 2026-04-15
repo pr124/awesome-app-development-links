@@ -10,8 +10,9 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Fonts, Colors & Icons](#fonts-colors--icons)
 - [UI/UX Design](#uiux-design)
 - [Onboarding](#onboarding)
+- [Marketing](#marketing)
 - [UGC & Content Creation](#ugc--content-creation)
-- [TikTok Marketing](#tiktok-marketing)
+- [TikTok](#tiktok)
 - [Claude Code, Codex & Skills](#claude-code-codex--aI-skills)
 - [Automation with Agents](#Automation-with-Agents)
 
@@ -135,6 +136,13 @@ A curated collection of resources for indie mobile app developers — from desig
 
 ---
 
+## Marketing
+
+- [The 5 ways to scale your app](https://x.com/ErnestoSOFTWARE/status/2038622376640864287)
+- [How I spent 30 minutes a day on Reddit to get my first 100 customers (learnings)](https://x.com/TimJayas/status/2042879715464376626)
+
+---
+
 ## UGC & Content Creation
 
 **Tools**
@@ -162,7 +170,6 @@ A curated collection of resources for indie mobile app developers — from desig
 - [How to Make AI UGC That Actually Looks Real](https://x.com/jacobgrowth/status/2032156967540605251)
 - [How to Grow $100k/mo Apps With AI UGC](https://x.com/fuckgrowth/status/2032147774834118704)
 - [Complete Guide: AI Content Factory That Generates $50K/mo](https://x.com/kritarthmittal/status/2029505868266619030)
-- [The 5 ways to scale your app](https://x.com/ErnestoSOFTWARE/status/2038622376640864287)
 - [How to grow your app from 0 to 100k users (PLAYBOOK)](https://x.com/DeRonin_/status/2038235735120101529)
 - [how to make $100k/mo with AI slideshows](https://x.com/roman_khaves/status/2037610375177224672)
 - [We got 7M views on YouTube with completely automated content](https://x.com/maubaron/status/2030716132093460742)
@@ -175,11 +182,9 @@ A curated collection of resources for indie mobile app developers — from desig
 - [How to Create Your AI Model / Influencer That Generates](https://x.com/51bodila/status/2042643878226841903)
 - [How to Exploit AI to Create Fake Female Outreach Accounts ($1M+ Money Grab)](https://x.com/dimitarangg/status/2042560430409679249)
 - [How to Create High ROAS UGC Ads](https://x.com/AlessandroLavis/status/2042946012268875917)
-- [How I spent 30 minutes a day on Reddit to get my first 100 customers (learnings)](https://x.com/TimJayas/status/2042879715464376626)
 - [How literal kids are making thousands per day with AI](https://x.com/Ecom_Linus/status/2042996126320677073)
 - [Seedance 2.0 Full Step-By-Step Guide + Advanced Techniques](https://x.com/Mho_23/status/2043060741616603442)
 - [Build a Automated AI System with Claude + Seedance 2.0](https://x.com/spwfeijen/status/2043692176689795202)
-- [I spent 1 week making TikToks. Then I stopped.](https://x.com/adensdk/status/2043763099841302908)
 - [the dark psychology behind AI UGC that prints](https://x.com/adriansolarzz/status/2043751295572742448)
 - [How To Make AI UGC That ACTUALLY Converts](https://x.com/pounddz/status/2043965298923999447)
 - [We spent $150,000 on Seedance 2 credits and achieved video AGI](https://x.com/starks_arq/status/2043007296477823216)
@@ -189,7 +194,7 @@ A curated collection of resources for indie mobile app developers — from desig
 
 ---
 
-## TikTok Marketing
+## TikTok
 - [Spark Ads by TikTok](https://ads.tiktok.com/help/article/spark-ads)
   
 **Account Launch Strategy**
@@ -209,6 +214,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Health app hooks](https://x.com/tatealax/status/2032568967513207271)
 - [How to create talking object videos](https://x.com/natiakourdadze/status/2035810398180344021)
 - [how to make $100k/mo with AI slideshows](https://x.com/karankendre/status/2037848401166168085)
+- [I spent 1 week making TikToks. Then I stopped.](https://x.com/adensdk/status/2043763099841302908)
 - [Using comments section to promote app](https://x.com/affprinter/status/2036070906821505407)
 
 ---
