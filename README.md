@@ -105,7 +105,6 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Design/UI/UX Skills](https://impeccable.style/)
 
 **Guides**
-- [Neuro App Onboarding UI Tutorial](https://x.com/AliGrids/status/2033411362077208604)
 - [Molyiachi App Paywall Design](https://x.com/ayomide_des/status/2032781289711931461)
 - [The Ultimate Design Toolkit for Builders](https://x.com/jiayun_studio/status/2028342179614064685)
 - [Mobile Homepage Layout Do's & Don'ts](https://x.com/UiSavior/status/2028982210091446510)
