@@ -160,7 +160,6 @@ A curated collection of resources for indie mobile app developers — from desig
 - [How to Go Viral With AI UGC Using Emojis in Your Hooks](https://x.com/adriansolarzz/status/2033275781577679187)
 - [Why Your Content Won't Blow Up (and How to Fix It)](https://x.com/jessieclipping/status/2027030716219822359)
 - [6 Viral Post Formats for Text-Wall Videos](https://x.com/SimonasDip/status/2028183619697607093)
-- [NanoBanana + Manus + Arcads + OpenClaw = AI Content Factory](https://x.com/maverickecom/status/2027416902671155207)
 - [Go Viral First, Then Optimize](https://x.com/iamgdsa/status/2027019954109722760)
 - [How AI Characters Generate Income 24/7](https://x.com/maxxmalist/status/2025263995251220784)
 - [$550/hr AI Creative Director](https://x.com/FynCas/status/2031026800696938855)
