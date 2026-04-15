@@ -156,7 +156,6 @@ A curated collection of resources for indie mobile app developers — from desig
 
 **Guides**
 - [NanoBanana AI Content Tutorial](https://x.com/NanoBanana/status/2031739390561792084)
-- [The only skill you should be learning right now](https://x.com/pounddz/status/2032131820368601505)
 - [How to Master AI Content — Step-by-Step Playbook](https://x.com/maxxmalist/status/2029262055555969297)
 - [How to Go Viral With AI UGC Using Emojis in Your Hooks](https://x.com/adriansolarzz/status/2033275781577679187)
 - [Why Your Content Won't Blow Up (and How to Fix It)](https://x.com/jessieclipping/status/2027030716219822359)
