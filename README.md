@@ -159,8 +159,6 @@ A curated collection of resources for indie mobile app developers — from desig
 - [How to Master AI Content — Step-by-Step Playbook](https://x.com/maxxmalist/status/2029262055555969297)
 - [How to Go Viral With AI UGC Using Emojis in Your Hooks](https://x.com/adriansolarzz/status/2033275781577679187)
 - [Why Your Content Won't Blow Up (and How to Fix It)](https://x.com/jessieclipping/status/2027030716219822359)
-- [How Brazilians Are Scaling B2C Offers to 7-Figs With AI Slideshows](https://x.com/adriansolarzz/status/2029346469119991974)
-- [Full Guide: $30k/mo With AI Influencers Selling Apps](https://x.com/ErnestoSOFTWARE/status/2028947872847413388)
 - [6 Viral Post Formats for Text-Wall Videos](https://x.com/SimonasDip/status/2028183619697607093)
 - [NanoBanana + Manus + Arcads + OpenClaw = AI Content Factory](https://x.com/maverickecom/status/2027416902671155207)
 - [Go Viral First, Then Optimize](https://x.com/iamgdsa/status/2027019954109722760)
