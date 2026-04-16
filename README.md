@@ -2,6 +2,24 @@
 
 A curated collection of resources for indie mobile app developers — from design and development to marketing and monetization.
 
+commit to building one thing all in for 6 months
+work every single day no matter of how you feel
+find mentors who have achieved what you want
+stop consuming content and go create value
+quit chasing shiny objects that distract you
+focus on fundamentals that actually matter
+fail repeatedly because you're learning
+see small improvements showing up
+fail even harder the second time
+keep grinding through the pain
+collect small daily victories
+embrace the struggle fully
+never quit the process
+improve relentlessly
+repeat the cycle
+love it all
+[Machina](http://x.com/EXM7777/status/2044799517401522489)
+
 ## Table of Contents
 
 - [General](#general)
