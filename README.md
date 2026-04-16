@@ -151,6 +151,7 @@ A curated collection of resources for indie mobile app developers — from desig
 **Tools**
 - [Apify - Web scraper](https://apify.com/store)
 - [Arcads](https://www.arcads.ai/)
+- [CapCut](https://www.capcut.com/)
 - [Bluma](https://www.getbluma.com/)
 - [Freepik](https://www.freepik.com/app)
 - [Reel Farm](https://reel.farm/)
