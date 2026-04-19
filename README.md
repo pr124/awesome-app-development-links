@@ -135,6 +135,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Tai Chi](https://x.com/adriamatz/status/2044368207239070020)
 - [Unrot](https://x.com/Siron93/status/2044424962392387755)
 - [Fastic](https://x.com/VechAlex/status/2045521925644902795)
+- [MenuFit](https://x.com/DannyIsLearning/status/2045674810349379709)
 
 ---
 
