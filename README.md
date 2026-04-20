@@ -145,7 +145,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [How I spent 30 minutes a day on Reddit to get my first 100 customers (learnings)](https://x.com/TimJayas/status/2042879715464376626)
 - [How to grow your app from 0 to 100k users (PLAYBOOK)](https://x.com/DeRonin_/status/2038235735120101529)
 - [how to ACTUALLY go viral on every video](https://x.com/twoclipping/status/2043383780963143715)
-
+- [If I launched an IOS app today and needed $1k MRR fast, I'd do this](https://x.com/arthuryuzbashew/status/2040501406063526075)
 
 
 ---
@@ -173,7 +173,6 @@ A curated collection of resources for indie mobile app developers — from desig
 - [We got 7M views on YouTube with completely automated content](https://x.com/maubaron/status/2030716132093460742)
 - [how to get 100M+ views with ugc (my $0 to $100k MRR playbook)](https://x.com/roman_khaves/status/2034999438779814202)
 - [How Brands Can Scale With UGC Content using AI Workflows](https://x.com/jacobgrowth/status/2035439474490933396)
-- [If I launched an IOS app today and needed $1k MRR fast, I'd do this](https://x.com/arthuryuzbashew/status/2040501406063526075)
 - [How I've Turned Kling 3.0 + Viral Reels Into $800K+ For Brands](https://x.com/adriansolarzz/status/2042588532011586026)
 - [how to predict v*rality](https://x.com/fuckgrowth/status/2041580077826371733)
 - [How to Create Your AI Model / Influencer That Generates](https://x.com/51bodila/status/2042643878226841903)
