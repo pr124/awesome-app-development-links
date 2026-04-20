@@ -168,7 +168,6 @@ A curated collection of resources for indie mobile app developers — from desig
 - [How to Go Viral With AI UGC Using Emojis in Your Hooks](https://x.com/adriansolarzz/status/2033275781577679187)
 - [Why Your Content Won't Blow Up (and How to Fix It)](https://x.com/jessieclipping/status/2027030716219822359)
 - [6 Viral Post Formats for Text-Wall Videos](https://x.com/SimonasDip/status/2028183619697607093)
-- [Go Viral First, Then Optimize](https://x.com/iamgdsa/status/2027019954109722760)
 - [Complete Guide: AI Content Factory That Generates $50K/mo](https://x.com/kritarthmittal/status/2029505868266619030)
 - [We got 7M views on YouTube with completely automated content](https://x.com/maubaron/status/2030716132093460742)
 - [how to get 100M+ views with ugc (my $0 to $100k MRR playbook)](https://x.com/roman_khaves/status/2034999438779814202)
