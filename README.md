@@ -44,6 +44,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Google Trends](https://trends.google.com/explore?geo=US) — Spot rising search interest
 - [What product or feature to build?](https://x.com/onlinedopamine/status/2028782843732840829)
 - [The easiest path to a viral indie app right now](https://x.com/WasimShips/status/2022694971191476255)
+- [the ULTIMATE 48h doomsday guide to vibecode & scale your app to $10M ARR](https://x.com/growthsuck/status/2035991110334423469)
 
 ---
 
@@ -172,7 +173,6 @@ A curated collection of resources for indie mobile app developers — from desig
 - [We got 7M views on YouTube with completely automated content](https://x.com/maubaron/status/2030716132093460742)
 - [how to get 100M+ views with ugc (my $0 to $100k MRR playbook)](https://x.com/roman_khaves/status/2034999438779814202)
 - [How Brands Can Scale With UGC Content using AI Workflows](https://x.com/jacobgrowth/status/2035439474490933396)
-- [the ULTIMATE 48h doomsday guide to vibecode & scale your app to $10M ARR](https://x.com/growthsuck/status/2035991110334423469)
 - [If I launched an IOS app today and needed $1k MRR fast, I'd do this](https://x.com/arthuryuzbashew/status/2040501406063526075)
 - [How I've Turned Kling 3.0 + Viral Reels Into $800K+ For Brands](https://x.com/adriansolarzz/status/2042588532011586026)
 - [how to predict v*rality](https://x.com/fuckgrowth/status/2041580077826371733)
