@@ -143,6 +143,8 @@ A curated collection of resources for indie mobile app developers — from desig
 - [The 5 ways to scale your app](https://x.com/ErnestoSOFTWARE/status/2038622376640864287)
 - [How I spent 30 minutes a day on Reddit to get my first 100 customers (learnings)](https://x.com/TimJayas/status/2042879715464376626)
 - [How to grow your app from 0 to 100k users (PLAYBOOK)](https://x.com/DeRonin_/status/2038235735120101529)
+- [how to ACTUALLY go viral on every video](https://x.com/twoclipping/status/2043383780963143715)
+
 
 
 ---
@@ -183,7 +185,6 @@ A curated collection of resources for indie mobile app developers — from desig
 - [the dark psychology behind AI UGC that prints](https://x.com/adriansolarzz/status/2043751295572742448)
 - [How To Make AI UGC That ACTUALLY Converts](https://x.com/pounddz/status/2043965298923999447)
 - [We spent $150,000 on Seedance 2 credits and achieved video AGI](https://x.com/starks_arq/status/2043007296477823216)
-- [how to ACTUALLY go viral on every video](https://x.com/twoclipping/status/2043383780963143715)
 - [how to build an AI content machine (step-by-step playbook)](https://x.com/sferro21/status/2043685806443773988)
 - [The Seedance 2.0 Prompting Bible](https://x.com/EXM7777/status/2044072293383712878)
 
