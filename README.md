@@ -123,7 +123,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [Opal (breakdown 1)](https://x.com/cesaralvarezll/status/2032513612497969591)
 - [Opal (breakdown 2)](https://x.com/alice_ercolani/status/2036004810621948034)
 - [Balance](https://x.com/alice_ercolani/status/2031188338737385861)
-- [MacroFactor](https://x.com/adriamatz/status/2030674462480240832)
+- [MacroFactor](https://x.com/VechAlex/status/2046607863720628259)
 - [Waterllama](https://x.com/cesaralvarezll/status/2037170874873188833)
 - [Rock Identifier](https://x.com/adriamatz/status/2032410618381181130)
 - [Arise](https://x.com/adriamatz/status/2038943537564143716)
