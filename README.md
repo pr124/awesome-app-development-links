@@ -96,7 +96,7 @@ A curated collection of resources for indie mobile app developers — from desig
 
 **Inspiration & Research**
 - [Mobbin](https://mobbin.com/)
-- [Dribbble](https://dribbble.com/)
+- [Dribbble](https://dribbble.com/shots/popular/mobile)
 - [UXSnaps](https://www.uxsnaps.com/)
 - [Spottedinprod](https://www.spottedinprod.com/)
 - [Before.click](https://before.click/)
