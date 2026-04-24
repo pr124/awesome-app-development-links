@@ -97,9 +97,9 @@ A curated collection of resources for indie mobile app developers — from desig
 **Inspiration & Research**
 - [Mobbin](https://mobbin.com/)
 - [Dribbble](https://dribbble.com/shots/popular/mobile)
-- [UXSnaps](https://www.uxsnaps.com/)
+- [UXSnaps - UI breakdown](https://www.uxsnaps.com/)
 - [Spottedinprod](https://www.spottedinprod.com/)
-- [Before.click](https://before.click/)
+- [Before.click - App Store screenshots](https://before.click/)
 - [60fps Design](https://60fps.design/apps)
 
 **Skills**
