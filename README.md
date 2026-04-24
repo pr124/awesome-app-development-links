@@ -104,6 +104,7 @@ A curated collection of resources for indie mobile app developers — from desig
 
 **Skills**
 - [Design/UI/UX Skills](https://impeccable.style/)
+- [UI/UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
 
 **Guides**
 - [Molyiachi App Paywall Design](https://x.com/ayomide_des/status/2032781289711931461)
