@@ -212,6 +212,7 @@ A curated collection of resources for indie mobile app developers — from desig
 - [how to make $100k/mo with AI slideshows](https://x.com/roman_khaves/status/2037610375177224672)
 - [I spent 1 week making TikToks. Then I stopped.](https://x.com/adensdk/status/2043763099841302908)
 - [Using comments section to promote app](https://x.com/affprinter/status/2036070906821505407)
+- [Full TikTok pipeline](https://x.com/the_smart_ape/status/2044326151619785095)
 
 ---
 
