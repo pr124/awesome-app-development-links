@@ -1,4 +1,4 @@
-# Awesome App Development Links
+# App Development And Marketing Links
 
 A curated collection of resources for indie mobile app developers — from design and development to marketing and monetization.
 
