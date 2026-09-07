@@ -160,6 +160,7 @@ Real-world onboarding teardowns, grouped by product type so it is easier to find
 - [Ahead](https://x.com/NathanGeckler/status/2075047318458347900) - Emotional growth.
 - [Me+](https://x.com/NathanGeckler/status/2080509129387389182) - Selling the product through onboarding.
 - [BePresent](https://x.com/VechAlex/status/2092659052702507103) - Screen-time habits.
+- [Focus Friend](https://x.com/cesaralvarezll/status/2095194937419526346) - Video game styling
 
 </details>
 
